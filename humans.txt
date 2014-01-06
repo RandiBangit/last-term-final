@@ -1,0 +1,12 @@
+/*TEAM*/
+Designer & Developper: Randi Bangit
+Location: Ottawa, Canada
+
+/*THANKS*/
+To coffee.
+
+/*SITE*/
+Last update: December 2013
+Standards: HTML5, CSS3
+Components: Modernizer, Javascript
+Software: Adobe, Livereload

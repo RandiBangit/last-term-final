@@ -1,0 +1,6 @@
+# http://robotstxt.org
+
+Site-map: http://bang0024.site44.com/dsn1543/project-1/sitemap.xml
+User-agent: *
+
+Disallow: /assets/
